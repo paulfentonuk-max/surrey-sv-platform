@@ -26,15 +26,7 @@ INSTALLED_APPS = [
     'drf_spectacular',
     
     # Local apps
-    'sv_platform.apps.core',
-    'sv_platform.apps.communities',
     'sv_platform.apps.impact',
-    'sv_platform.apps.commitments',
-    'sv_platform.apps.activities',
-    'sv_platform.apps.projects',
-    'sv_platform.apps.analytics',
-    'sv_platform.apps.ai_engine',
-    'sv_platform.apps.arol',
 ]
 
 MIDDLEWARE = [
