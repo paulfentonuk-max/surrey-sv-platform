@@ -1,7 +1,6 @@
 import requests
 import pandas as pd
 from django.conf import settings
-from .models import GeographicArea
 from sv_platform.apps.communities.models import CommunityProfile
 
 class CommunityDataIngester:
@@ -50,7 +49,7 @@ class CommunityDataIngester:
             return self._mock_health_data()
     
     def process_area(self, area_code, census, imd, health):
-        area, created = GeographicArea.objects.update_or_create(
+#         area, created = GeographicArea.objects.update_or_create(
             code=area_code,
             defaults={
                 'name': census.get('name', f'Area {area_code}'),
