@@ -26,7 +26,6 @@ class CommunityProfile(TimestampMixin):
     ]
     
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
-    geographic_area = models.OneToOneField(GeographicArea, on_delete=models.CASCADE, related_name='profile')
     status = models.CharField(max_length=20, choices=PROFILE_STATUS, default='ACTIVE')
     
     # Official Statistics
