@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     'drf_spectacular',
     
     # Local apps
+    'sv_platform.apps.core',
     'sv_platform.apps.communities',
     'sv_platform.apps.impact',
     'sv_platform.apps.commitments',
