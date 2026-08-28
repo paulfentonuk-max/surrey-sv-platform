@@ -1,5 +1,4 @@
 from django.db import models
-from django.contrib.gis.db import models as gis_models
 from django.db.models import JSONField
 from django.contrib.postgres.fields import ArrayField
 import uuid
@@ -30,9 +29,9 @@ class GeographicArea(TimestampMixin):
     area_type = models.CharField(max_length=20, choices=AREA_TYPES)
     parent = models.ForeignKey('self', on_delete=models.CASCADE, null=True, blank=True)
     
-    # Geometry for mapping
-    boundary = gis_models.MultiPolygonField(null=True, blank=True)
-    centroid = gis_models.PointField(null=True, blank=True)
+    # Geometry for mapping (stored as JSON strings)
+    boundary = models.TextField(null=True, blank=True)
+    centroid = models.TextField(null=True, blank=True)
     
     # Vector embedding for similarity matching
     embedding = ArrayField(models.FloatField(), null=True, blank=True)
