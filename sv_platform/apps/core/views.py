@@ -8,7 +8,6 @@ from sv_platform.apps.impact.models import Intervention, SRICalculation, Financi
 from sv_platform.apps.commitments.models import SVCommitment, Supplier
 from sv_platform.apps.activities.models import ActivitySubmission, GeneratedActivity
 from sv_platform.apps.projects.models import GeneratedProject
-from .ingestion import CommunityDataIngester
 from sv_platform.apps.ai_engine.services import ActivityAnalysisService, ActivityGenerationService, ProjectGenerationService
 
 class CommunityDataViewSet(viewsets.ViewSet):
