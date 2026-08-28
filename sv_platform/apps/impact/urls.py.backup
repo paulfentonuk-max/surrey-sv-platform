@@ -1,0 +1,1 @@
+    path('ai/chat/', api_views.ai_chat, name='ai_chat'),

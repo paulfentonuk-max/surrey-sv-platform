@@ -1,0 +1,1078 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2709
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2760
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4320
+"GET /static/admin/css/base.css HTTP/1.1" 200 24538
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3583
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2814
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3208
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1708
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 15025
+Not Found: /apple-touch-icon-precomposed.png
+"GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2823
+Not Found: /apple-touch-icon.png
+"GET /apple-touch-icon.png HTTP/1.1" 404 2787
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2760
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4494
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4494
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4493
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4320
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 8622
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 442
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2709
+"GET /admin/ HTTP/1.1" 200 12392
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/impact/financialproxy/ HTTP/1.1" 200 30129
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6216
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8999
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 9985
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 349
+"GET /static/admin/js/core.js HTTP/1.1" 200 6432
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 11452
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1575
+"GET /static/admin/js/filters.js HTTP/1.1" 200 1099
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/search.svg HTTP/1.1" 200 607
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+"GET /admin/jsi18n/ HTTP/1.1" 200 5754
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 928
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+"GET /admin/impact/financialproxy/f6c05057-b1a3-48f1-9703-5392ac219ce2/change/ HTTP/1.1" 200 21607
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 677
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 12094
+"GET /static/admin/css/forms.css HTTP/1.1" 200 7951
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 726
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 707
+"GET /admin/jsi18n/ HTTP/1.1" 200 5754
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Forbidden: /api/dashboard/stats/
+"GET /api/dashboard/stats/ HTTP/1.1" 403 58
+Forbidden: /api/dashboard/stats/
+"GET /api/dashboard/stats/ HTTP/1.1" 403 58
+"GET /api/dashboard/stats/ HTTP/1.1" 200 6564
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+/Users/paulfenton/surrey-sv-platform/sv_platform/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 6564
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+Watching for file changes with StatReloader
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/paulfenton/surrey-sv-platform/sv_platform/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 9371
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+Internal Server Error: /api/proxies/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 806, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 725, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 535, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 396, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 384, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1129, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1275, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1393, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `source_organisation` is not valid for model `FinancialProxy` in `sv_platform.apps.impact.serializers.FinancialProxySerializer`.
+"GET /api/proxies/?framework=SCC HTTP/1.1" 500 163533
+Internal Server Error: /api/proxies/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 806, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 725, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 535, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 396, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 384, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1129, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1275, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1393, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `source_organisation` is not valid for model `FinancialProxy` in `sv_platform.apps.impact.serializers.FinancialProxySerializer`.
+"GET /api/proxies/?framework=SCC HTTP/1.1" 500 163533
+Internal Server Error: /api/proxies/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 806, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 725, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 535, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 396, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 384, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1129, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1275, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1393, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `source_organisation` is not valid for model `FinancialProxy` in `sv_platform.apps.impact.serializers.FinancialProxySerializer`.
+"GET /api/proxies/?framework=SCC HTTP/1.1" 500 163533
+Internal Server Error: /api/proxies/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 806, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 725, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 535, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 396, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 384, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1129, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1275, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1393, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `source_organisation` is not valid for model `FinancialProxy` in `sv_platform.apps.impact.serializers.FinancialProxySerializer`.
+"GET /api/proxies/?framework=SCC HTTP/1.1" 500 163533
+Watching for file changes with StatReloader
+Internal Server Error: /api/proxies/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 806, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 725, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 535, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 396, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 384, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1129, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1275, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1393, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `source_organisation` is not valid for model `FinancialProxy` in `sv_platform.apps.impact.serializers.FinancialProxySerializer`.
+"GET /api/proxies/?framework=SCC HTTP/1.1" 500 163533
+Internal Server Error: /api/proxies/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 806, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 725, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 535, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 396, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 384, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1129, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ~~~~~~~~~~~~~~~~^
+        source, info, model, depth
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1275, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/serializers.py", line 1393, in build_unknown_field
+    raise ImproperlyConfigured(
+    ...<2 lines>...
+    )
+django.core.exceptions.ImproperlyConfigured: Field name `source_organisation` is not valid for model `FinancialProxy` in `sv_platform.apps.impact.serializers.FinancialProxySerializer`.
+"GET /api/proxies/?framework=SCC HTTP/1.1" 500 163533
+- Broken pipe from ('127.0.0.1', 52893)
+Watching for file changes with StatReloader
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 39284
+Watching for file changes with StatReloader
+"GET /api/proxies/ HTTP/1.1" 200 12967
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 15346
+"GET /api/proxies/?framework=GLOBAL HTTP/1.1" 200 12357
+"GET /api/proxies/ HTTP/1.1" 200 12967
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 15346
+"GET /api/proxies/?framework=GLOBAL HTTP/1.1" 200 12357
+"GET /api/proxies/ HTTP/1.1" 200 12967
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 15346
+"GET /api/proxies/?framework=GLOBAL HTTP/1.1" 200 12357
+"GET /api/proxies/ HTTP/1.1" 200 12967
+Watching for file changes with StatReloader
+"GET /api/proxies/ HTTP/1.1" 200 12967
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 15346
+"GET /api/proxies/?framework=GLOBAL HTTP/1.1" 200 12357
+"GET /api/proxies/ HTTP/1.1" 200 12967
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 15346
+"GET /api/proxies/ HTTP/1.1" 200 12967
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 12967
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 89944
+"GET /api/proxies/?framework=GLOBAL HTTP/1.1" 200 588197
+"GET /api/proxies/ HTTP/1.1" 200 678140
+- Broken pipe from ('127.0.0.1', 53972)
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/proxies/?framework=SCC HTTP/1.1" 200 89944
+"GET /api/proxies/?framework=GLOBAL HTTP/1.1" 200 588197
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+Watching for file changes with StatReloader
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/dashboard/stats/ HTTP/1.1" 200 283
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+Not Found: /api/ai/chat/
+"POST /api/ai/chat/ HTTP/1.1" 404 12921
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /api/ai/chat/
+"POST /api/ai/chat/ HTTP/1.1" 404 12921
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+Not Found: /api/ai/chat/
+"POST /api/ai/chat/ HTTP/1.1" 404 12921
+Watching for file changes with StatReloader
+Not Found: /api/ai/chat/
+"GET /api/ai/chat/ HTTP/1.1" 404 12920
+Watching for file changes with StatReloader
+Not Found: /api/ai/chat/
+"GET /api/ai/chat/ HTTP/1.1" 404 12920
+Not Found: /api/ai/chat/
+"GET /api/ai/chat/ HTTP/1.1" 404 12920
+Watching for file changes with StatReloader
+Session data corrupted
+Method Not Allowed: /api/ai/chat/
+"GET /api/ai/chat/ HTTP/1.1" 405 5720
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Session data corrupted
+Method Not Allowed: /api/ai/chat/
+"GET /api/ai/chat/ HTTP/1.1" 405 5720
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+"POST /api/ai/chat/ HTTP/1.1" 200 88
+Watching for file changes with StatReloader
+"POST /api/ai/chat/ HTTP/1.1" 200 163
+Watching for file changes with StatReloader
+"POST /api/ai/chat/ HTTP/1.1" 200 84
+- Broken pipe from ('127.0.0.1', 54378)
+Watching for file changes with StatReloader
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+"POST /api/ai/chat/ HTTP/1.1" 200 88
+Watching for file changes with StatReloader
+"POST /api/ai/chat/ HTTP/1.1" 200 165
+"POST /api/ai/chat/ HTTP/1.1" 200 2758
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+Internal Server Error: /api/ai/chat/
+"POST /api/ai/chat/ HTTP/1.1" 500 89
+Watching for file changes with StatReloader
+Internal Server Error: /api/ai/chat/
+"POST /api/ai/chat/ HTTP/1.1" 500 89
+Watching for file changes with StatReloader
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+"POST /api/ai/chat/ HTTP/1.1" 200 3191
+"POST /api/ai/chat/ HTTP/1.1" 200 3870
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+"POST /api/ai/chat/ HTTP/1.1" 200 2623
+"POST /api/ai/chat/ HTTP/1.1" 200 2475
+"POST /api/ai/chat/ HTTP/1.1" 200 3108
+"POST /api/ai/chat/ HTTP/1.1" 200 3646
+/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+"POST /api/ai/chat/ HTTP/1.1" 200 1466
+"POST /api/ai/chat/ HTTP/1.1" 200 2929
+"OPTIONS /api/conversations/save/ HTTP/1.1" 200 0
+Not Found: /api/conversations/save/
+"POST /api/conversations/save/ HTTP/1.1" 404 13125
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+"POST /api/ai/chat/ HTTP/1.1" 200 1621
+"OPTIONS /api/conversations/save/ HTTP/1.1" 200 0
+Not Found: /api/conversations/save/
+"POST /api/conversations/save/ HTTP/1.1" 404 13125
+"OPTIONS /api/ai/chat/ HTTP/1.1" 200 0
+Not Found: /api/conversations/save/
+"POST /api/conversations/save/ HTTP/1.1" 404 13125
+"POST /api/ai/chat/ HTTP/1.1" 200 1746
+"OPTIONS /api/conversations/save/ HTTP/1.1" 200 0
+Not Found: /api/conversations/save/
+"POST /api/conversations/save/ HTTP/1.1" 404 13125
+Not Found: /api/conversations/save/
+"POST /api/conversations/save/ HTTP/1.1" 404 13125
+"POST /api/ai/chat/ HTTP/1.1" 200 1700
+Not Found: /api/conversations/save/
+"POST /api/conversations/save/ HTTP/1.1" 404 13125
+Watching for file changes with StatReloader
+"GET /api/communities/list/ HTTP/1.1" 200 2
+"GET /api/communities/list/ HTTP/1.1" 200 2
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Watching for file changes with StatReloader
+Method Not Allowed: /api/ai/chat/
+"GET /api/ai/chat/ HTTP/1.1" 405 5720
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4208
+Not Found: /apple-touch-icon-precomposed.png
+"GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 4271
+Not Found: /apple-touch-icon.png
+"GET /apple-touch-icon.png HTTP/1.1" 404 4235
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4208
+- Broken pipe from ('127.0.0.1', 56086)
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Watching for file changes with StatReloader
+Method Not Allowed: /api/ai/chat/
+"GET /api/ai/chat/ HTTP/1.1" 405 5720
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Watching for file changes with StatReloader
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Watching for file changes with StatReloader
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Not Found: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 404 13101
+Watching for file changes with StatReloader
+Internal Server Error: /api/ai/analyze/
+"POST /api/ai/analyze/ HTTP/1.1" 500 60
+Watching for file changes with StatReloader
+"POST /api/ai/analyze/ HTTP/1.1" 200 366
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/frameworks/ HTTP/1.1" 200 173
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"GET /api/proxies/ HTTP/1.1" 200 678140
+"POST /api/ai/chat/ HTTP/1.1" 200 2692
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/vcse/save/ HTTP/1.1" 200 23
+Watching for file changes with StatReloader
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 215
+"POST /api/vcse/save/ HTTP/1.1" 200 23
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 394
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 394
+Watching for file changes with StatReloader
+"POST /api/ai/chat/ HTTP/1.1" 200 2864
+/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/ai_service.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/ai_service.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /api/evidence/gaps/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 302, in get_evidence_gaps
+    count=models.Count('id')
+          ^^^^^^
+NameError: name 'models' is not defined
+"GET /api/evidence/gaps/ HTTP/1.1" 500 95913
+Internal Server Error: /api/evidence/gaps/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 302, in get_evidence_gaps
+    count=models.Count('id')
+          ^^^^^^
+NameError: name 'models' is not defined
+"GET /api/evidence/gaps/ HTTP/1.1" 500 94687
+Watching for file changes with StatReloader
+Internal Server Error: /api/evidence/gaps/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 302, in get_evidence_gaps
+    count=models.Count('id')
+          ^^^^^^
+NameError: name 'models' is not defined
+"GET /api/evidence/gaps/ HTTP/1.1" 500 95894
+Internal Server Error: /api/evidence/search/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 242, in search_evidence
+    Q(title__icontains=query) |
+    ^
+NameError: name 'Q' is not defined
+"GET /api/evidence/search/?q=mental%20health HTTP/1.1" 500 96730
+Internal Server Error: /api/evidence/search/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 242, in search_evidence
+    Q(title__icontains=query) |
+    ^
+NameError: name 'Q' is not defined
+"GET /api/evidence/search/?q=mental%20health HTTP/1.1" 500 96730
+Internal Server Error: /api/evidence/search/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 242, in search_evidence
+    Q(title__icontains=query) |
+    ^
+NameError: name 'Q' is not defined
+"GET /api/evidence/search/?q=employment HTTP/1.1" 500 96659
+Internal Server Error: /api/evidence/search/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 242, in search_evidence
+    Q(title__icontains=query) |
+    ^
+NameError: name 'Q' is not defined
+"GET /api/evidence/search/?q=isolation HTTP/1.1" 500 96909
+Internal Server Error: /api/evidence/gaps/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 302, in get_evidence_gaps
+    count=models.Count('id')
+          ^^^^^^
+NameError: name 'models' is not defined
+"GET /api/evidence/gaps/ HTTP/1.1" 500 94668
+Internal Server Error: /api/evidence/gaps/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 302, in get_evidence_gaps
+    count=models.Count('id')
+          ^^^^^^
+NameError: name 'models' is not defined
+"GET /api/evidence/gaps/ HTTP/1.1" 500 94668
+Internal Server Error: /api/evidence/gaps/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 302, in get_evidence_gaps
+    count=models.Count('id')
+          ^^^^^^
+NameError: name 'models' is not defined
+"GET /api/evidence/gaps/ HTTP/1.1" 500 96705
+Internal Server Error: /api/evidence/gaps/
+Traceback (most recent call last):
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/decorators/csrf.py", line 64, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 526, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 474, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 485, in raise_uncaught_exception
+    raise exc
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/views.py", line 523, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/venv/lib/python3.14/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/paulfenton/surrey-sv-platform/sv_platform/apps/impact/api_views.py", line 302, in get_evidence_gaps
+    count=models.Count('id')
+          ^^^^^^
+NameError: name 'models' is not defined
+"GET /api/evidence/gaps/ HTTP/1.1" 500 96705
+Watching for file changes with StatReloader
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 394
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 394
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 394
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 394
+"GET /api/vcse/list/?user_id=user_001 HTTP/1.1" 200 394
+Not Found: /api/impact/export/excel/
+"GET /api/impact/export/excel/ HTTP/1.1" 404 14238
+Not Found: /api/impact/export/pdf/
+"GET /api/impact/export/pdf/ HTTP/1.1" 404 14232
+Not Found: /api/impact/export/excel/
+"GET /api/impact/export/excel/ HTTP/1.1" 404 14238
+Not Found: /api/impact/export/pdf/
+"GET /api/impact/export/pdf/ HTTP/1.1" 404 14232
+Not Found: /api/impact/export/pdf/
+"GET /api/impact/export/pdf/ HTTP/1.1" 404 14232
