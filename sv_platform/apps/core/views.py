@@ -2,7 +2,7 @@ from rest_framework import viewsets, status
 from rest_framework.decorators import action
 from rest_framework.response import Response
 from django.shortcuts import get_object_or_404
-from .models import GeographicArea, EthicalFramework
+# Models removed - using only TimestampMixin
 from sv_platform.apps.communities.models import CommunityProfile
 from sv_platform.apps.impact.models import Intervention, SRICalculation, FinancialProxy, OutcomeMetric
 from sv_platform.apps.commitments.models import SVCommitment, Supplier
