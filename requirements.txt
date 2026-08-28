@@ -80,3 +80,4 @@ validators==0.35.0
 vine==5.1.0
 wcwidth==0.8.2
 weaviate-client==4.23.0
+whitenoise==6.6.0
