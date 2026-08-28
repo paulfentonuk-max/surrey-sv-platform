@@ -210,3 +210,9 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 # Add whitenoise middleware
 MIDDLEWARE.insert(1, 'whitenoise.middleware.WhiteNoiseMiddleware')
+
+# GDAL configuration for Railway
+import os
+if os.getenv('RAILWAY_ENVIRONMENT'):
+    GDAL_LIBRARY_PATH = '/nix/store/*/lib/libgdal.so'
+    GEOS_LIBRARY_PATH = '/nix/store/*/lib/libgeos_c.so'
